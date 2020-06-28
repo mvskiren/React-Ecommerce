@@ -1,0 +1,12 @@
+html,body{
+    margin: 0;
+    font-family: 'Poppins',Helvetica,'Courier New', Courier, monospace;
+    box-sizing: border-box;
+}
+h4{
+    margin: 20px;
+    color: white;
+    font-size: 13px;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+}

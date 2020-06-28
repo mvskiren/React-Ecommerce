@@ -1,0 +1,39 @@
+{
+  "name": "ecommerce-react-graphql-stripe",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/core": "^10.0.28",
+    "axios": "^0.19.2",
+    "gestalt": "^0.79.1",
+    "react": "^16.4.2",
+    "react-confetti": "^5.1.0",
+    "react-dom": "^16.4.2",
+    "react-dom-confetti": "^0.1.4",
+    "react-router": "^3.2.6",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "^3.4.1",
+    "react-spinners": "^0.4.8",
+    "react-stripe-elements": "^2.0.1",
+    "react-use": "^15.3.0",
+    "strapi-sdk-javascript": "^0.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

@@ -7,4 +7,5 @@
 ## Payment with Stripe and Email Notification with Sendgrid Api
 <img src="https://github.com/mvskiren/React-Ecommerce/blob/master/Screenshot%202020-06-28%20at%2011.41.43%20PM.png" />
 
-Ecommerce website build with React ,includes Authentication,Order Management,Email Notification(SendGrid) and Payment Gateway(Stripe) (Still in Developing stage) Feel free to use.
+Ecommerce website build with React ,includes Authentication,Order Management,Email Notification(SendGrid) and Payment Gateway(Stripe).Mojo title is just for developing purpose.
+(Still in Developing stage) Feel free to use.
